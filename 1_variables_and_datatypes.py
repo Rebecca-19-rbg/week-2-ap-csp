@@ -7,21 +7,21 @@
 # Step 4: Display the result
 # Step 5: End
 
-# Let's write that algorithm in Python code:
-num1 = 5
-num2 = 7
-sum_result = num1 + num2
-print("The sum is:", sum_result)
+# # Let's write that algorithm in Python code:
+# num1 = 5 #integer data type 
+# num2 = 7 #interger datatype
+# sum_result = num1 + num2
+# print("The sum is:", sum_result)
 
 
-# ----------------------------------------
-# Variables and Data Types
-# ----------------------------------------
+# # ----------------------------------------
+# # Variables and Data Types
+# # ----------------------------------------
 
-# Variables: Containers for storing data values
-# Variables can hold different types of data
+# # Variables: Containers for storing data values
+# # Variables can hold different types of data
 
-# Common Data Types in Python:
+# # Common Data Types in Python:
 
 # 1. Strings: Text data enclosed in quotes
 name = "John"
@@ -36,30 +36,30 @@ hungry = False
 print("Hungry:", hungry)
 
 
-# Example combining them all:
-print(f"{name} is {age} years old. Hungry? {hungry}")
+# # Example combining them all:
+# print(f"{name} is {age} years old. Hungry? {hungry}")
 
 
-# ----------------------------------------
-# Variable Naming Rules
-# ----------------------------------------
+# # ----------------------------------------
+# # Variable Naming Rules
+# # ----------------------------------------
 
-# 1. Names cannot start with a number
-# Example (INVALID): 1name = "John" ❌
-# Example (VALID):
-name1 = "John"
+# # 1. Names cannot start with a number
+# # Example (INVALID): 1name = "John" ❌
+# # Example (VALID):
+# name1 = "John"
 
-# 2. No spaces — use underscores instead
-# Example (INVALID): first name = "John" ❌
-# Example (VALID):
-first_name = "John"
+# # 2. No spaces — use underscores instead
+# # Example (INVALID): first name = "John" ❌
+# # Example (VALID):
+# first_name = "John"
 
-# 3. Avoid using Python keywords and symbols
-# Example (INVALID): for = "test" ❌ (since 'for' is a Python keyword)
-# Example (VALID):
-loop_word = "test"
+# # 3. Avoid using Python keywords and symbols
+# # Example (INVALID): for = "test" ❌ (since 'for' is a Python keyword)
+# # Example (VALID):
+# loop_word = "test"
+# cant use class, def, return, for etc 
+# print("Variable naming rules followed successfully!\n")
+# # ----------------------------------------
 
-print("Variable naming rules followed successfully!\n")
-# ----------------------------------------
-
-# End of 1_variables_and_datatypes.py
+# # End of 1_variables_and_datatypes.py
