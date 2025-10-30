@@ -55,6 +55,13 @@ print(chicago_mayor[1:5])
 # when we get one character/letter its called indexing
 # when we get a chunck of letters from a string its called slicing 
 
+phrase3 = "Supercalifragilistic"
+
+print(phrase3.upper())
+cut = print(phrase3[0:5])
+print(phrase3[5:9])
+print(phrase3[19])
+
 # Indexing: Access characters by position (0-based index)
 print("First character:", phrase[0])  # Output: P
 print("Last character:", phrase[-1])  # Output: !
