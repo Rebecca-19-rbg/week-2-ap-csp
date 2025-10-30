@@ -16,19 +16,22 @@ print("Uppercase:", first_name.upper())
 print("Length of name:", len(first_name))
 
 # 3. Combine your name and favorite color into one message
-print(f"Hello my name is" {first_name}, "and my favorite color is" (favorite_color))
+print(f"{first_name}, and {favorite_color}")
 
 #  Step 3: Math Practice
 # Use arithmetic operators with your favorite number
-print("Subtraction (20 - 1):", (favorite_number))
+print("Subtraction (20 - 1)=", (favorite_number))
 
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
 
-input("What's your name?")
-print("Hello,", input)
-input
+user_name=input("What's your name?")
+print("Hello, input)
 
+num1 = 3
+num2 = 3
+user_name = int(input(whats your third fav"))
+num4 = int(input(whats your fourth fav"))
 
 # ⚙️ Step 5: Final Challenge (combine it all)
 # Use math and strings together
