@@ -25,13 +25,13 @@ print("Subtraction (20 - 1)=", (favorite_number))
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
 
-user_name=input("What's your name?")
-print("Hello, input)
+user_name = input("What is your name?")
+print("Your name is", (user_name))
 
-num1 = 3
-num2 = 3
-user_name = int(input(whats your third fav"))
-num4 = int(input(whats your fourth fav"))
+user_color = input("What's your favorite color?")
+print("Your favorite color is", (user_color))
+
+print("Your name is", (user_name) "and your favorite color is", (user_color))
 
 # ⚙️ Step 5: Final Challenge (combine it all)
 # Use math and strings together
