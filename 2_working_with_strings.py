@@ -33,6 +33,11 @@ print("Is Uppercase?", phrase.isupper())  # Output: False
 # Find the length of the string
 print("Length of phrase:", len(phrase))  # Output: 14
 
+
+declaration_of_independance = "all men are created equal, are endowed with unalienable rights including Life, Liberty and the pursuit of Happiness, and that governments derive their just powers from the consent of the governed to secure these rights"
+
+print("Length of of DOI first paragraph:", len(declaration_of_independance))
+
 # ----------------------------------------
 # 3. Indexing and Slicing
 # ----------------------------------------
