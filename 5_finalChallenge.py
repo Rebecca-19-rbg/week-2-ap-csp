@@ -17,3 +17,8 @@
 # Well, try to do it on your own, and if it gets complicated, don’t worry, we will solve it together in the next lecture.
 
 # Cheers and good luck.
+
+imag = input("If you had an imaginary friend, what would his name be? ")
+color = input("What is your favorite color? ")
+
+print("Your brand name should be", (color), (imag))
