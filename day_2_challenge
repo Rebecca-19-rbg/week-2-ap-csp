@@ -1,0 +1,7 @@
+name = input("What is your name? ")
+
+earned = float(input("How much have you sold this month? "))
+
+com = (earned * 0.13)
+rounded_num = round(com, 2)
+print((name), "is entitled to: $",(rounded_num))
